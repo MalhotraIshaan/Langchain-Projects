@@ -2,4 +2,5 @@ langchain
 langhchain-google-generativeai
 openpyxl
 base64
+pandas
 flask
