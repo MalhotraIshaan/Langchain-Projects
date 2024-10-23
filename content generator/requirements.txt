@@ -1,4 +1,2 @@
-langchain
-langhchain-google-generativeai
-openpyxl
-flask
+autogen
+google gemini api
