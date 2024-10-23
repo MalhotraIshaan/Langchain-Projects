@@ -1,7 +1,4 @@
-Flask
-PyPDF2
-pytesseract
-Pillow
-fitz
-google.generativeai
+langchain
+langhchain-google-generativeai
+openpyxl
 pandas
